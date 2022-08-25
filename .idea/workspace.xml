@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff853271-c270-4f44-bf8c-0d333a80dd77" name="Changes" comment="" />
+    <list default="true" id="ff853271-c270-4f44-bf8c-0d333a80dd77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b88d4c96-4c8e-44dd-871d-b0732653a8fc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b88d4c96-4c8e-44dd-871d-b0732653a8fc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/roland/hibernatespring/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/roland/hibernatespring/dao/PersonDAO.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -40,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2DlcnkjM8U2p70BjxMyje0pWi2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/pilpa/IdeaProjects/SpringHibernateApp",
+    "last_opened_file_path": "C:/Users/pilpa/IdeaProjects/SpringHibernateCRUDApp",
     "spring.configuration.checksum": "e85b156c43cd35d11fd0f3cb94c89c09"
   },
   "keyToStringList": {
@@ -157,11 +166,23 @@
       <updated>1661277282028</updated>
       <workItem from="1661277283950" duration="147000" />
       <workItem from="1661311367361" duration="1192000" />
-      <workItem from="1661359046066" duration="5025000" />
+      <workItem from="1661359046066" duration="5093000" />
+      <workItem from="1661364306144" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
